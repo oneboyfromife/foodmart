@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "foodmart-rider",
+    "name": "Foodmart Rider",
     "slug": "foodmart-rider",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,8 +27,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
-          "imageWidth": 200,
+          "image": "./assets/images/splash-screen.png",
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
